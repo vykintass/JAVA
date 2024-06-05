@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a23fcdab-739d-4670-b76b-fd938dab46bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../05-07/.idea/05-07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_1_praktiniai/.idea/ArrayList_1_praktiniai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_01_Words/AL2_01_Words.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_02_RecurringWord/AL2_02_RecurringWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_03_WordsInReverseOrder/AL2_03_WordsInReverseOrder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_04_WordsInAlphabeticalOrder/AL2_04_WordsInAlphabeticalOrder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_05_NumberOfItems/AL2_05_NumberOfItems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_06_RemoveLast/AL2_06_RemoveLast.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_07_SumOfNumbers/AL2_07_SumOfNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_08_AverageOfNumbers/AL2_08_AverageOfNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_09_LengthsOfStrings/AL2_09_LengthsOfStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_10_TheGreatest/AL2_10_TheGreatest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_11_MoreThanOnce/AL2_11_MoreThanOnce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_12_CombiningArrayLists/AL2_12_CombiningArrayLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-07/ArrayList_AL2/AL2_13_SmartCombining/AL2_13_SmartCombining.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/.idea/05-08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_0_objektinis/.idea/08_0_objektinis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_0_objektinis/Objektinis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/.idea/08_praktiniai_oop_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/08_01.Room/src/main/java/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/08_02.Whistle/src/main/java/Whistle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/08_03.Door/src/main/java/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/08_04.Product/src/main/java/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/08_06.Debt/src/main/java/Debt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/08_07.Song/src/main/java/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/08_08.Gauge/src/main/java/Gauge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/08_09.Agent/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/08_10.Multiplier/src/main/java/Multiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/08_praktiniai_oop_1/08_12.PaymentCard/src/main/java/PaymentCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-08/TheCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-09/08_praktiniai_oop_2/.idea/08_praktiniai_oop_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-09/08_praktiniai_oop_2/08_2_04.Books/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-09/08_praktiniai_oop_2/08_2_05.ConstructorOverload/src/main/java/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-09/08_praktiniai_oop_2/08_2_06.OverloadedCounter/src/main/java/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/.idea/05-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_01/.idea/09_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/.idea/09_2_praktiniai_oop_inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/09_01.ABC/src/main/java/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/09_01.ABC/src/main/java/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/09_01.ABC/src/main/java/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/09_02.PersonAndSubclasses/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/09_02.PersonAndSubclasses/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/09_02.PersonAndSubclasses/src/main/java/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/09_03.Warehousing/src/main/java/ChangeHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/09_2_praktiniai_oop_inheritance/09_03.Warehousing/src/main/java/ProductWarehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-10/out/production/05-10/.idea/05-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/.idea/05-13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/09_oop-inheritance-animals/src/main/java/lt/techin/oop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_01.DifferentKindsOfBoxes/src/main/java/BoxWithMaxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_01.DifferentKindsOfBoxes/src/main/java/MisplacingBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_01.DifferentKindsOfBoxes/src/main/java/OneItemBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_02.TacoBoxes/src/main/java/CustomTacoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_02.TacoBoxes/src/main/java/TripleTacoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_03.InterfaceInABox/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_03.InterfaceInABox/src/main/java/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_03.InterfaceInABox/src/main/java/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_03.InterfaceInABox/src/main/java/Packable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_04.Herds/src/main/java/Herd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_04.Herds/src/main/java/Organism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/NoiseCapable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/AlkoholinisGerimas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/PaprastaPreke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Parduotuve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/Prekes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/src/AlkoholinisGerimas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/src/PaprastaPreke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/src/Parduotuve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/src/Preke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/src/Vaistas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Prekes/src/Vynas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Vaistas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/Vynas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-13/out/production/05-13/.idea/05-13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1diena/01_praktiniai/.idea/01_praktiniai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1diena/2.1-variables/.idea/2.1-variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1diena/2.2-variables/2.2-1/.idea/2.2-variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1diena/2.2-variables/2.2-1/out/production/2.2-variables/.idea/2.2-variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1diena/2.2-variables/2.2-2/.idea/2.2-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1diena/2.2-variables/2.2-2/out/production/2.2-2/.idea/2.2-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1diena/2.2-variables/2.2-3/.idea/2.2-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1diena/2.2-variables/2.2-3/out/production/2.2-3/.idea/2.2-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1diena/2.3-variables/.idea/2.3-variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_2-praktiniai_loops_for/.idea/04_2-praktiniai_loops_for.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-1/.idea/04.3-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-1/WeekAndDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-1/out/production/04.3-1/.idea/04.3-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-2/.idea/04.3-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-2/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-2/out/production/04.3-2/.idea/04.3-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-3/.idea/04.3-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-3/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-3/out/production/04.3-3/.idea/04.3-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-4/.idea/04.3-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-4/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04.3-4/out/production/04.3-4/.idea/04.3-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/04_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/out/production/04_3/.idea/04.3-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/out/production/04_3/.idea/04.3-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/out/production/04_3/.idea/04.3-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/out/production/04_3/.idea/04.3-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/out/production/04_3/out/production/04.3-1/.idea/04.3-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/out/production/04_3/out/production/04.3-2/.idea/04.3-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/out/production/04_3/out/production/04.3-3/.idea/04.3-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/04_3/out/production/04_3/out/production/04.3-4/.idea/04.3-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2diena/3.1/.idea/3.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3diena/05.1/.idea/05.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3diena/05.1/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3diena/05.1/out/production/05.1/.idea/05.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/src/Helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2gaDxlfrR1zcs6JCb6o3dN5sk1d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Egzaminas1/Desktop/JAVA/05-17/philatelist/philatelist-task"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a23fcdab-739d-4670-b76b-fd938dab46bb" name="Changes" comment="" />
+      <created>1715927044408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715927044408</updated>
+    </task>
+    <servers />
+  </component>
+</project>
